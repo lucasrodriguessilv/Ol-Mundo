@@ -1,2 +1,3 @@
 Olá meu nome é Lucas
 Nova linha criada com sucesso
+Craição de um novo $ git checkout Nome do projeto
